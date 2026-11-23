@@ -17,7 +17,7 @@
 	"devDependencies": {
 		"@astrojs/check": "^0.9.12",
 		"@astrojs/rss": "^4.0.19",
-		"@astrojs/sitemap": "^3.7.4",
+		"@astrojs/sitemap": "^3.7.6",
 		"@astrojs/svelte": "7.2.5",
 		"@astrojs/ts-plugin": "^1.10.6",
 		"@biomejs/biome": "2.4.2",
@@ -30,7 +30,7 @@
 		"@iconify-json/fa6-brands": "^1.2.6",
 		"@iconify-json/fa6-regular": "^1.2.4",
 		"@iconify-json/fa6-solid": "^1.2.4",
-		"@iconify-json/material-symbols": "^1.2.98",
+		"@iconify-json/material-symbols": "^1.2.101",
 		"@iconify/svelte": "^5.2.4",
 		"@swup/astro": "^1.8.0",
 		"@tailwindcss/typography": "^0.5.20",
